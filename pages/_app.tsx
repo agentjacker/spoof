@@ -16,7 +16,7 @@ if (!projectId) {
 initWeb3InboxClient({
   projectId,
   allApps: process.env.NODE_ENV === "development" ? true : false,
-  domain: "gm.walletconnect.com",
+  domain: "opensea.io",
 });
 
 function MyApp({ Component, pageProps }: AppProps) {

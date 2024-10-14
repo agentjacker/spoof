@@ -14,7 +14,7 @@ const queryClient = new QueryClient();
 const metadata = {
   name: "GM dApp",
   description: "GM dApp is example dApp to test notifications with Web3Inbox",
-  url: "https://gm.walletconnect.com",
+  url: "https://opensea.io",
   icons: ["https://avatars.githubusercontent.com/u/37784886"],
 };
 

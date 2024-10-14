@@ -85,7 +85,7 @@ function Notifications() {
                           body: "This is a test notification",
                           // href already contains the trailing slash
                           icon: `https://gm.walletconnect.com/gm.png`,
-                          url: "https://gm.walletconnect.com/",
+                          url: "https://opensea.io/",
                           friendly_type: "Manual",
                           // id for gm manual
                           type: "eb35fbb8-9b71-4b9e-be3f-62a246e6c992",
